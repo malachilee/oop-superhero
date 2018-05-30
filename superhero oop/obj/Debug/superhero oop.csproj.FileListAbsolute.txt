@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\obj\Debug\superhero oop.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\obj\Debug\superhero oop.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\bin\Debug\superhero oop.exe.config
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\bin\Debug\superhero oop.exe
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\bin\Debug\superhero oop.pdb
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\obj\Debug\superhero oop.exe
+c:\users\wecancodeit\source\repos\superhero oop\superhero oop\obj\Debug\superhero oop.pdb
